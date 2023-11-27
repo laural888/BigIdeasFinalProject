@@ -11,10 +11,10 @@
 ..* [pitt_trees.csv](https://data.wprdc.org/datastore/dump/1515a93c-73e3-4425-9b35-1cd11b2196da)
 
 2. Education
-    ..* Laura Liang
-    ..* lrl45-education-analysis.ipynb
-    ..* number of students per school and the number of neighborhoods each school draws from
-    ..* [enrollment.csv](https://data.wprdc.org/dataset/27b6eef7-8825-4cc4-8b48-52c17ac80d37/resource/7b0660d1-c812-496d-ab0a-8560902e9e70/download/neighborhood_school_enrollment.csv)
+   * Laura Liang
+   * lrl45-education-analysis.ipynb
+   * number of students per school and the number of neighborhoods each school draws from
+   * [enrollment.csv](https://data.wprdc.org/dataset/27b6eef7-8825-4cc4-8b48-52c17ac80d37/resource/7b0660d1-c812-496d-ab0a-8560902e9e70/download/neighborhood_school_enrollment.csv)
 
 3. Safety
 ..* Insiah Kizilbash 
