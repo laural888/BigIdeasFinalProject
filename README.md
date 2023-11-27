@@ -19,5 +19,5 @@
 3. Safety
    * Insiah Kizilbash 
    * ink27-safety_analysis.ipynb
-   *
-   * [.csv]()
+   * weighting severity of crime in each neighborhood
+   * [PoliceIncidents.csv](https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f)
