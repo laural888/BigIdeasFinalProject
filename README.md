@@ -6,7 +6,7 @@
 
 1. Environment (based on trees)
    * Jake Biondolillo
-   * Personal_Notebook.ipynb
+   * jwb141-environment-analysis.ipynb
    * total number of trees per neighborhood (condition: fair or better)
    * [pitt_trees.csv](https://data.wprdc.org/datastore/dump/1515a93c-73e3-4425-9b35-1cd11b2196da)
 
@@ -18,6 +18,6 @@
 
 3. Safety
    * Insiah Kizilbash 
-   * ink27-safety_analysis.ipynb
+   * ink27-safety-analysis.ipynb
    * weighting severity of crime in each neighborhood
    * [PoliceIncidents.csv](https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e)
