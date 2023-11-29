@@ -21,3 +21,5 @@
    * ink27-safety-analysis.ipynb
    * weighting severity of crime in each neighborhood
    * [PoliceIncidents.csv](https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e)
+   
+There is a summary of all our results and analysis in the final-project.ipynb file.
